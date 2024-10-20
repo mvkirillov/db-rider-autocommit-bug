@@ -1,0 +1,5 @@
+SIMPLE_ENTITY:
+  - ID: 1
+    NAME: "abc"
+  - ID: 2
+    NAME: "qwe"
